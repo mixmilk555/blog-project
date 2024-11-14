@@ -1,0 +1,7 @@
+.book-item {
+    cursor: pointer;
+  }
+  
+  .book-item:hover {
+    background-color: #f0f0f0;
+  }
